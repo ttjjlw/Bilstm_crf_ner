@@ -7,7 +7,7 @@
 # 使用步骤 <br>
 使用非常简单，具体过程如下： <br>
 1、把数据集放入指定文件夹（Bilstm_CRF_for_ner\data_path下面） <br>
-`dg_train_t_8.txt 训练集  train_v_8.txt 验证集 如果不用预训练的word embedings,则其他都可以删掉。` <br>
+`dg_train_t_8.txt 训练集  dg_train_v_8.txt 验证集 如果不用预训练的word embedings,则其他都可以删掉。` <br>
 2、进入Bilstm_CRF_for_ner\main.py脚本，设置超参数，然后运行即可 <br>
 
 # 模型训练时输出结果解释：
