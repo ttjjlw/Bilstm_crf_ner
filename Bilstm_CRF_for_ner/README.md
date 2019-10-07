@@ -1,7 +1,7 @@
 
 该模型是一个基于字符的BiLSTM-CRF序列标注模型。
 
-运行代码环境：Python 3 和TensorFlow 1.2
+运行代码环境：Python 3 和TensorFlow 1.10
 
 
 ### 模型介绍
