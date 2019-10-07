@@ -43,4 +43,5 @@ epochs: 1 训练集f1score: 0.7792
 > 则学习率减半，并且载入最大的f1socre_valid模型重新训练。
 ### 最后结果：
 > 线上提交结果：89 <br>
-> 验证集结果：BIOf1score:90~92    f1score: 84~86
+> 验证集结果：BIOf1score:90~92    
+              f1score: 84~86
