@@ -42,5 +42,5 @@ epochs: 1 训练集f1score: 0.7792
 > 当f1score_valid小于最大的f1score_valid,并且f1score_train大于最大的f1socre_train-0.1，说明过拟合
 > 则学习率减半，并且载入最大的f1socre_valid模型重新训练。
 ### 最后结果：
-> 线上提交结果：89
+> 线上提交结果：89 <br>
 > 验证集结果：BIOf1score:90~92    f1score: 84~86
